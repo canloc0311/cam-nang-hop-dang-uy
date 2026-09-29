@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+  <title id="title">Bốn bước trong quy trình công tác họp</title>
+  <desc id="desc">Chuẩn bị, ghi biên bản, thông báo kết luận, theo dõi nhiệm vụ</desc>
+  <rect width="960" height="180" fill="#f5f7f8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#fff" stroke="#85283b" stroke-width="2">
+      <rect x="20" y="36" width="193" height="108" rx="10"/>
+      <rect x="262" y="36" width="193" height="108" rx="10"/>
+      <rect x="504" y="36" width="193" height="108" rx="10"/>
+      <rect x="746" y="36" width="193" height="108" rx="10"/>
+    </g>
+    <g fill="#85283b" font-size="16" font-weight="bold">
+      <text x="116" y="75">01</text><text x="358" y="75">02</text>
+      <text x="600" y="75">03</text><text x="842" y="75">04</text>
+    </g>
+    <g fill="#29343e" font-size="17" font-weight="bold">
+      <text x="116" y="109">Chuẩn bị họp</text>
+      <text x="358" y="109">Ghi biên bản</text>
+      <text x="600" y="101">Thông báo</text><text x="600" y="122">kết luận</text>
+      <text x="842" y="101">Theo dõi</text><text x="842" y="122">nhiệm vụ</text>
+    </g>
+  </g>
+  <g stroke="#85283b" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M225 90h22m-8-8 8 8-8 8"/>
+    <path d="M467 90h22m-8-8 8 8-8 8"/>
+    <path d="M709 90h22m-8-8 8 8-8 8"/>
+  </g>
+</svg>
