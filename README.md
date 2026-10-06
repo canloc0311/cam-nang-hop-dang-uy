@@ -6,8 +6,8 @@
 
 | Mục | Thông tin |
 | --- | --- |
-| Họ tên sinh viên | [Điền họ tên] |
-| Nhóm / lớp | [Điền thông tin] |
+| Họ tên sinh viên | [Nguyễn Xuân Thắng] |
+| Nhóm / lớp | [CNTT K66T1] |
 | Đề tài | Cẩm nang công tác họp của Văn phòng Đảng ủy xã |
 | Website | https://canloc0311.github.io/cam-nang-hop-dang-uy/#/ |
 | Mã nguồn | https://github.com/canloc0311/cam-nang-hop-dang-uy |
